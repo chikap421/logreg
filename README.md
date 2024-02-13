@@ -16,7 +16,7 @@ This Python script is designed to fit, predict, and evaluate logistic regression
 
 To run this code, make sure you have the above Python packages installed. You can install these dependencies via pip:
 
-pip install scikit-learn numpy
+`pip install scikit-learn numpy`
 
 
 ## Usage
